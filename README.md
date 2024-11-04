@@ -7,21 +7,20 @@
 [![Jun Liu - Follow](https://img.shields.io/badge/Jun_Liu-Follow-blue?logo=gmail)](https://hello)
 [![Jun Liu - Follow](https://img.shields.io/badge/Jun_Liu-Follow-blue?logo=researchgate)](https://hello)
 
-I am Jun Liu 😃. I am cunrrently working and living in Austrilia 🏫.I love to explore and learn about new things.
+I am Jun Liu 😃. I am cunrrently working and living in Austrilia 🏫. And i'm interested in AI and Computational Finance.
 
 ![Jun Liu's github stats](https://github-readme-stats.vercel.app/api?username=JL-ghcoder&hide=issues,contribs&show_icons=true)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JL-ghcoder&repo=Athena)](https://github.com/JL-ghcoder/Athena)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JL-ghcoder&repo=Everything-About-Factor-Investing)](https://github.com/JL-ghcoder/Everything-About-Factor-Investing)
 
-
-## 👯 Communities
-* Microsoft Student Partner
-* Deeplearning.ai event ambassador
-* Management Team Lead at Voice Of Code
-* CSE Club at CPU
-* CamPus Ambassador at Coding Ninja and Humanity Welfare Council
-* Internshala Student Partner-16
+## 📇 Experience
+* Research Assisant
+* University of Tasmania - Master of Finance - PHD in Finance
+* Certificate in Quantitative Finance in 2023
+* University of Tasmania - Master of Finance
+* Nanjing University of Finance and Economics - Accounting
+  
 ## ⚡ Technologies
 **Talk to me about:**
 - Solving Data structure and algorithm questions in **CPP and Python**
@@ -31,7 +30,7 @@ I am Jun Liu 😃. I am cunrrently working and living in Austrilia 🏫.I love t
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JL-ghcoder&hide=jupyter%20notebook&)](https://github.com/JL-ghcoder/github-readme-stats)
 
-## Hello World!! 🤔
+## Contact !! 🤔
 - 💬 Ask me about anything and everything.
 - 📫 Contact my Email: isjun.liu@gmail.com
 - 🔔 Subscribe my ResearchGate: [Jun Liu]()
