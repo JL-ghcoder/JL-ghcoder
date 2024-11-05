@@ -7,7 +7,7 @@
 [![Jun Liu - Follow](https://img.shields.io/badge/Jun_Liu-Follow-blue?logo=gmail)](https://hello)
 [![Jun Liu - Follow](https://img.shields.io/badge/Jun_Liu-Follow-blue?logo=researchgate)](https://hello)
 
-I am Jun Liu 😃. I am cunrrently working and living in Austrilia 🏫. And i'm interested in AI and Computational Finance.
+I am Jun Liu and i'm interested in AI and Computational Finance.
 
 ![Jun Liu's github stats](https://github-readme-stats.vercel.app/api?username=JL-ghcoder&hide=issues,contribs&show_icons=true)
 
