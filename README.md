@@ -7,19 +7,18 @@
 [![Jun Liu - Follow](https://img.shields.io/badge/Jun_Liu-Follow-blue?logo=gmail)](https://hello)
 [![Jun Liu - Follow](https://img.shields.io/badge/Jun_Liu-Follow-blue?logo=researchgate)](https://hello)
 
-I am Jun Liu and i'm interested in AI and Computational Finance.
+I am Jun Liu, and I'm interested in AI and Computational Finance.
 
 ![Jun Liu's github stats](https://github-readme-stats.vercel.app/api?username=JL-ghcoder&hide=issues,contribs&show_icons=true)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JL-ghcoder&repo=Athena)](https://github.com/JL-ghcoder/Athena)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JL-ghcoder&repo=Everything-About-Factor-Investing)](https://github.com/JL-ghcoder/Everything-About-Factor-Investing)
 
-## 📇 Experience
-* Research Assisant
-* University of Tasmania - PHD in Finance
-* Certificate in Quantitative Finance
-* University of Tasmania - Master of Finance
-* Nanjing University of Finance and Economics - Accounting
+## 📇 Qualifications
+* Certificate in Quantitative Finance, CQF Institute
+* Ph.D. in Finance, University of Tasmania
+* Master of Finance in Business Research, University of Tasmania
+* Bachelor of Management in Accounting, Nanjing University of Finance and Economics
   
 ## ⚡ Technologies
 **Talk to me about:**
