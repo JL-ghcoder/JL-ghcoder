@@ -16,8 +16,8 @@ I am Jun Liu and i'm interested in AI and Computational Finance.
 
 ## 📇 Experience
 * Research Assisant
-* University of Tasmania - Master of Finance - PHD in Finance
-* Certificate in Quantitative Finance in 2023
+* University of Tasmania - PHD in Finance
+* Certificate in Quantitative Finance
 * University of Tasmania - Master of Finance
 * Nanjing University of Finance and Economics - Accounting
   
