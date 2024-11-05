@@ -14,8 +14,8 @@ My research focuses on High-Frequency Trading within global financial markets. I
 ## 📇 Qualifications
 * Certificate in Quantitative Finance, CQF Institute
 * Ph.D. in Finance, University of Tasmania
-* Master of Finance in Business Research, University of Tasmania
-* Bachelor of Management in Accounting, Nanjing University of Finance and Economics
+* M.Fin. in Business Research, University of Tasmania
+* B.A. in Accounting, Nanjing University of Finance and Economics
   
 ## ⚡ Technologies
 **Talk to me about:**
