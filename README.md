@@ -5,7 +5,7 @@
 [![Jun Liu - Follow](https://img.shields.io/badge/Jun_Liu-Follow-blue?logo=linkedin)](https://www.linkedin.com/in/jun-liu-a96b95247/)
 [![Jun Liu - Follow](https://img.shields.io/badge/Jun_Liu-Follow-blue?logo=ResearchGate)](https://www.researchgate.net/profile/Jun-Liu-97)
 
-I am Jun Liu, and I'm interested in AI and Computational Finance.
+I am Jun Liu. My research focuses on High-Frequency Trading in global financial markets. I specialize in quantitative trading, factor development, and the application of generative AI in quantitative finance. My work aims to leverage data-driven methodologies and advanced technologies to improve financial market analysis and optimize investment strategies.
 
 ![Jun Liu's github stats](https://github-readme-stats.vercel.app/api?username=JL-ghcoder&hide=issues,contribs&show_icons=true)
 
