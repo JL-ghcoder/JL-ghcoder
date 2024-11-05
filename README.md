@@ -29,4 +29,4 @@ My research focuses on high-frequency trading, quantitative trading, and factor 
 ## Contact !! 🤔
 - 💬 Ask me about anything and everything.
 - 📫 Contact my Email: isjun.liu@gmail.com
-- 🔔 Subscribe my ResearchGate: [![Jun Liu](https://img.shields.io/badge/Jun_Liu-Follow-blue?logo=ResearchGate)](https://www.researchgate.net/profile/Jun-Liu-97)
+- 🔔 Subscribe my ResearchGate: [![Jun Liu - Follow](https://img.shields.io/badge/Jun_Liu-Follow-blue?logo=ResearchGate)](https://www.researchgate.net/profile/Jun-Liu-97)
