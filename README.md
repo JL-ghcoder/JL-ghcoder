@@ -3,7 +3,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Jun Liu - Follow](https://img.shields.io/badge/Jun_Liu-Follow-blue?logo=linkedin)](https://www.linkedin.com/in/jun-liu-a96b95247/)
-[![Jun Liu - Follow](https://img.shields.io/badge/Jun_Liu-Follow-blue?logo=ResearchGate)](https://www.researchgate.net/profile/Jun-Liu-97)/)
+[![Jun Liu - Follow](https://img.shields.io/badge/Jun_Liu-Follow-blue?logo=ResearchGate)]([https://www.researchgate.net/profile/Jun-Liu-97])
 
 I am Jun Liu, and I'm interested in AI and Computational Finance.
 
