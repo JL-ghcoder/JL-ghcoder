@@ -4,8 +4,6 @@
 
 My research focuses on high-frequency trading, quantitative trading, and factor development in global financial markets, with an emphasis on applying generative AI in quantitative finance. My work aims to leverage data-driven methodologies and advanced algorithms to optimize investment strategies, enhance market prediction accuracy, and address challenges related to liquidity and systemic risk.
 
-![Jun Liu's github stats](https://github-readme-stats.vercel.app/api?username=JL-ghcoder&hide=issues,contribs&show_icons=true)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JL-ghcoder&repo=Athena)](https://github.com/JL-ghcoder/Athena)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JL-ghcoder&repo=Everything-About-Factor-Investing)](https://github.com/JL-ghcoder/Everything-About-Factor-Investing)
   
