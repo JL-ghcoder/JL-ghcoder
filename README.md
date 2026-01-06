@@ -4,8 +4,9 @@
 
 My research focuses on high-frequency trading, quantitative trading, and factor development in global financial markets, with an emphasis on applying generative AI in quantitative finance. My work aims to leverage data-driven methodologies and advanced algorithms to optimize investment strategies, enhance market prediction accuracy, and address challenges related to liquidity and systemic risk.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JL-ghcoder&repo=Athena)](https://github.com/JL-ghcoder/Athena)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JL-ghcoder&repo=Everything-About-Factor-Investing)](https://github.com/JL-ghcoder/Everything-About-Factor-Investing)
+[![Readme Card](https://github-readme-stats-omega-six-67.vercel.app/api/pin/?username=JL-ghcoder&repo=Athena)](https://github.com/JL-ghcoder/Athena)
+
+[![Readme Card](https://github-readme-stats-omega-six-67.vercel.app/api/pin/?username=JL-ghcoder&repo=Everything-About-Factor-Investing)](https://github.com/JL-ghcoder/Everything-About-Factor-Investing)
   
 ## ⚡ Technologies
 **Talk to me about:**
@@ -14,5 +15,5 @@ My research focuses on high-frequency trading, quantitative trading, and factor 
 - Finance Analysis using **Stata and Matlab**
 - Game Developing using **Godot**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JL-ghcoder&hide=jupyter%20notebook&)](https://github.com/JL-ghcoder/github-readme-stats)
+[![Top Langs](https://github-readme-stats-omega-six-67.vercel.app/api/top-langs/?username=JL-ghcoder&hide=jupyter%20notebook&)](https://github.com/JL-ghcoder/github-readme-stats)
 
